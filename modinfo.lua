@@ -1,7 +1,7 @@
 name = "Dark Matter"
 description = "Adds Dark Motes, Dark Matter and Dark Pylon to the game."
-author = "https://steamcommunity.com/profiles/76561198002269576"
-version = "1.28"
+author = "Tony" -- https://steamcommunity.com/profiles/76561198002269576
+version = "1.28b"
 forumthread = ""
 api_version = 10
 all_clients_require_mod = true
